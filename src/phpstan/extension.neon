@@ -1,0 +1,5 @@
+services:
+  -
+    class: eightytwo2024\PHPStan\GetThemeModReturnType
+    tags:
+      - phpstan.broker.dynamicFunctionReturnTypeExtension
